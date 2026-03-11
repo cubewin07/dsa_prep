@@ -1,6 +1,6 @@
 package arrays.syntax;
 
-public class Array {
+public class Array_syntax {
     public static void main(String[] args) {
         // 4 ways to init an array
         int[] a = new int[5];
