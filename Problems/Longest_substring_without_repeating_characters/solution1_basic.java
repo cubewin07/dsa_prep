@@ -1,4 +1,4 @@
-package Problems.longestSubstringWithoutRepeatingCharacters;
+package Problems.Longest_substring_without_repeating_characters;
 
 import java.util.HashSet;
 
